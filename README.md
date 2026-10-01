@@ -27,6 +27,129 @@ Atuei como **Gestora de Projetos Pleno**, responsável por:
 - Importância de traduzir conceitos técnicos (como Hadoop e TeraSort) em impacto de negócio.
 - Como benchmarks de performance suportam decisões estratégicas em ambientes de Big Data.
 - Valor da gestão estruturada para garantir entregas em projetos altamente técnicos.
+# Big Data Projects - Hadoop & TeraSort
+
+Este repositório documenta minha experiência em projetos de **Big Data** durante minha atuação como **Gerente de Projetos Pleno** na Serasa Experian.
+
+## 📌 Contexto
+- **Hadoop**: framework open source para armazenamento e processamento distribuído de grandes volumes de dados.
+- **TeraSort**: benchmark utilizado para testar a performance de clusters Hadoop, ordenando dados em escala de terabytes.
+
+## 🎯 Meu papel no projeto
+Atuei como **Gestora de Projetos Pleno**, responsável por:
+- Planejamento e acompanhamento de entregas.
+- Condução de **daily meetings** e cerimônias ágeis.
+- Criação e manutenção de artefatos de gestão:
+  - **Project Charter**
+  - **TACE (Termo de Abertura de Projeto)**
+  - **Mapa de Calor** para riscos e prioridades
+  - **Matriz Valor x Esforço** para priorização
+  - **5W2H** para plano de ação
+- Comunicação entre áreas técnicas e executivas.
+
+## 📊 Metodologias aplicadas
+- **Scrum/Kanban** para acompanhamento ágil.
+- **Gestão de stakeholders** e alinhamento estratégico.
+- **Indicadores de performance (KPIs)** para medir evolução dos projetos.
+
+## 💡 Aprendizados
+- Importância de traduzir conceitos técnicos (como Hadoop e TeraSort) em impacto de negócio.
+- Como benchmarks de performance suportam decisões estratégicas em ambientes de Big Data.
+- Valor da gestão estruturada para garantir entregas em projetos altamente técnicos.
+
+---
+
+## 📈 Exemplo de Matriz Valor x Esforço
+
+A matriz ajuda a priorizar iniciativas considerando **impacto (valor)** e **complexidade (esforço)**.
+
+```text
+                MATRIZ VALOR x ESFORÇO
+
+                ALTO VALOR | BAIXO ESFORÇO
+                ---------------------------
+                ✔ Projetos prioritários
+                ✔ "Quick Wins"
+
+                ALTO VALOR | ALTO ESFORÇO
+                ---------------------------
+                ✔ Projetos estratégicos
+                ✔ Demandam planejamento robusto
+
+                BAIXO VALOR | BAIXO ESFORÇO
+                ---------------------------
+                ✔ Tarefas de manutenção
+                ✔ Baixa prioridade
+
+                BAIXO VALOR | ALTO ESFORÇO
+                ---------------------------
+                ✘ Evitar ou reavaliar
+# Big Data Projects - Hadoop & TeraSort
+
+Este repositório documenta minha experiência em projetos de **Big Data** durante minha atuação como **Gerente de Projetos Pleno** na Serasa Experian.
+
+## 📌 Contexto
+- **Hadoop**: framework open source para armazenamento e processamento distribuído de grandes volumes de dados.
+- **TeraSort**: benchmark utilizado para testar a performance de clusters Hadoop, ordenando dados em escala de terabytes.
+
+## 🎯 Meu papel no projeto
+Atuei como **Gestora de Projetos Pleno**, responsável por:
+- Planejamento e acompanhamento de entregas.
+- Condução de **daily meetings** e cerimônias ágeis.
+- Criação e manutenção de artefatos de gestão:
+  - **Project Charter**
+  - **TACE (Termo de Abertura de Projeto)**
+  - **Mapa de Calor** para riscos e prioridades
+  - **Matriz Valor x Esforço** para priorização
+  - **5W2H** para plano de ação
+- Comunicação entre áreas técnicas e executivas.
+
+## 📊 Metodologias aplicadas
+- **Scrum/Kanban** para acompanhamento ágil.
+- **Gestão de stakeholders** e alinhamento estratégico.
+- **Indicadores de performance (KPIs)** para medir evolução dos projetos.
+
+## 💡 Aprendizados
+- Importância de traduzir conceitos técnicos (como Hadoop e TeraSort) em impacto de negócio.
+- Como benchmarks de performance suportam decisões estratégicas em ambientes de Big Data.
+- Valor da gestão estruturada para garantir entregas em projetos altamente técnicos.
+
+---
+
+## 📈 Exemplo de Matriz Valor x Esforço
+
+A matriz ajuda a priorizar iniciativas considerando **impacto (valor)** e **complexidade (esforço)**.
+
+```text
+                MATRIZ VALOR x ESFORÇO
+
+                ALTO VALOR | BAIXO ESFORÇO
+                ---------------------------
+                ✔ Projetos prioritários
+                ✔ "Quick Wins"
+
+                ALTO VALOR | ALTO ESFORÇO
+                ---------------------------
+                ✔ Projetos estratégicos
+                ✔ Demandam planejamento robusto
+
+                BAIXO VALOR | BAIXO ESFORÇO
+                ---------------------------
+                ✔ Tarefas de manutenção
+                ✔ Baixa prioridade
+
+                BAIXO VALOR | ALTO ESFORÇO
+                ---------------------------
+                ✘ Evitar ou reavaliar
+5W2H - Plano de Ação
+
+What (O quê): Implementar benchmark TeraSort no cluster Hadoop
+Why (Por quê): Validar performance e capacidade de processamento
+Where (Onde): Ambiente de Big Data da Serasa
+When (Quando): Q2/2023
+Who (Quem): Equipe de Engenharia de Dados + Gestão de Projetos
+How (Como): Configuração do cluster, execução do TeraSort, análise dos resultados
+How Much (Quanto custa): Recursos de infraestrutura já disponíveis, custo marginal baixo
 
 ---
 # 📚 Sumário / Table of Contents / Índice
