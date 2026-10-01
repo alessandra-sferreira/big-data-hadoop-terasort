@@ -1,3 +1,34 @@
+# Big Data Projects - Hadoop & TeraSort
+
+Este repositório documenta minha experiência em projetos de **Big Data** durante minha atuação como **Gerente de Projetos Pleno** na Serasa Experian.
+
+## 📌 Contexto
+- **Hadoop**: framework open source para armazenamento e processamento distribuído de grandes volumes de dados.
+- **TeraSort**: benchmark utilizado para testar a performance de clusters Hadoop, ordenando dados em escala de terabytes.
+
+## 🎯 Meu papel no projeto
+Atuei como **Gestora de Projetos Pleno**, responsável por:
+- Planejamento e acompanhamento de entregas.
+- Condução de **daily meetings** e cerimônias ágeis.
+- Criação e manutenção de artefatos de gestão:
+  - **Project Charter**
+  - **TACE (Termo de Abertura de Projeto)**
+  - **Mapa de Calor** para riscos e prioridades
+  - **Matriz Valor x Esforço** para priorização
+  - **5W2H** para plano de ação
+- Comunicação entre áreas técnicas e executivas.
+
+## 📊 Metodologias aplicadas
+- **Scrum/Kanban** para acompanhamento ágil.
+- **Gestão de stakeholders** e alinhamento estratégico.
+- **Indicadores de performance (KPIs)** para medir evolução dos projetos.
+
+## 💡 Aprendizados
+- Importância de traduzir conceitos técnicos (como Hadoop e TeraSort) em impacto de negócio.
+- Como benchmarks de performance suportam decisões estratégicas em ambientes de Big Data.
+- Valor da gestão estruturada para garantir entregas em projetos altamente técnicos.
+
+---
 # 📚 Sumário / Table of Contents / Índice
 
 - 🟨 [🇧🇷 One Page - Projeto Big Data](#-one-page---projeto-big-data-hadoop--terasort)
